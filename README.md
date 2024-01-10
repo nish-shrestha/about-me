@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Nish @nishyboyy
-- 👀 I’m interested in data science, machine learning, fintech in developing countries, ...
-- 🌱 I’m currently learning PowerBI, R, SQL and Python.
-- 💞️ I’m looking to collaborate on fun data analytics projects.
+- 👋 Hi, I’m Nish
 - 📫 How to reach me: @ nishchal.stha@gmail.com
 
 <!---
